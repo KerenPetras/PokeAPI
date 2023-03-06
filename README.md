@@ -10,6 +10,8 @@ While the project was initially built without a database, I am now exploring opt
 
 ![](https://i.postimg.cc/SRc0fNHW/Screenshot-2023-03-07-015333.png)
 
+![](https://i.postimg.cc/ry4LkQzK/Screenshot-2023-03-07-015404.png)
+
 ### Sorcses and Copyrights
 * [PokeAPI](https://pokeapi.co/)
 
